@@ -19,6 +19,8 @@ This web application is a simple and intuitive contact manager, allowing users t
 3. Apply migrations: python manage.py migrate<br>
 4. Run the development server: python manage.py runserver<br>
 5. Access the application at http://127.0.0.1:8000/ in your web browser.<br><br>
+
+
 **Requirements**<br>
 1. Python 3.x<br>
 2. Django<br><br>
