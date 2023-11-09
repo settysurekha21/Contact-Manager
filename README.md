@@ -24,8 +24,12 @@ This web application is a simple and intuitive contact manager, allowing users t
 **Requirements**<br>
 1. Python 3.x<br>
 2. Django<br><br>
+
+
 **License**<br>
 This project is licensed under the MIT License.
+
+
 
 
 
