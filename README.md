@@ -11,7 +11,7 @@ This web application is a simple and intuitive contact manager, allowing users t
 
 **5. Delete Contact:** Remove unwanted contacts effortlessly.<br>
 
-**6. User Authentication:** Secure your contacts with a user login and registration system.<br><br>
+
 **Usage** <br>
 1. Clone the repository: git clone https://github.com/your-username/contact-manager.git<br>
 
